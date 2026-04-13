@@ -1,4 +1,4 @@
-![logo] (https://github.com/saurabhrana-045/saurabhrana-045/blob/main/Banner.png)
+![logo](https://github.com/saurabhrana-045/saurabhrana-045/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Saurabh Kr. Rana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="banner" width="400" src="https://i.pinimg.com/originals/83/4f/38/834f3887bde180c0d471f00389466b9c.gif">
